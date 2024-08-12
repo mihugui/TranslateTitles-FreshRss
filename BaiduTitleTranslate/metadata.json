@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Translate article titles of the specified feed into Chinese, using Baidu Translate.",
     "author": "mihugui",
-    "website": "https://github.com/",
+    "website": "https://github.com/mihugui/TranslateTitles-FreshRss.git",
     "entrypoint": "TranslateTitles",
     "type": "user"
 }
